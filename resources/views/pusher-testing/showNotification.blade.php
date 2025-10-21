@@ -68,17 +68,14 @@
         notificationsWrapper.hide();
     }
 
-    //Thay giá trị PUSHER_APP_KEY vào chỗ xxx này nhé
     var pusher = new Pusher('93855d1d3bab4b932281', {
         encrypted: true,
         cluster: "ap1"
     });
     console.log(pusher);
-    // Subscribe to the channel we specified in our Laravel Event
     var channel = pusher.subscribe('audit');
 
     console.log(channel);
-    // Bind a function to a Event (the full Laravel class)
     channel.bind('audit-action', function(data) {//
         console.log(data);
         var existingNotifications = notifications.html();

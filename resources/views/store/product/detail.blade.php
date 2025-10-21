@@ -82,7 +82,7 @@
                 <h4 class="mt-3"><small>Danh mục</small></h4>
                 <p>
                     @foreach ($detail->danhmucs as $item)
-                        {{ $item->dm_ten, }}
+                        {{ $item->dm_ten }}
                     @endforeach
                 </p>
 

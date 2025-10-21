@@ -61,13 +61,13 @@
                             </div>
                             <i class="fa fa-store-alt"></i><i class="fal fa-store-alt"></i>
                             <div class="shop-page_info-list-item">
-                                <i class="fa fa-user-o" aria-hidden="true">&nbsp; &nbsp;&nbsp;Tên nhà thầu: <span class="shop-page_title">Duongg</span></i>
+                                <i class="fa fa-user-o" aria-hidden="true">&nbsp; &nbsp;&nbsp;Tên nhà thầu: <span class="shop-page_title">Khoa</span></i>
                             </div>
                             <div class="shop-page_info-list-item">
-                                <i class="fa fa-whatsapp" aria-hidden="true">&nbsp; &nbsp;&nbsp;SĐT: <span class="shop-page_title">+096752611</span></i>
+                                <i class="fa fa-whatsapp" aria-hidden="true">&nbsp; &nbsp;&nbsp;SĐT: <span class="shop-page_title">+0987654321</span></i>
                             </div>
                             <div class="shop-page_info-list-item">
-                                <i class="fa fa-envelope-o" aria-hidden="true">&nbsp; &nbsp;&nbsp;Gmail: <span class="shop-page_title">example@gmial.com</span></i>
+                                <i class="fa fa-envelope-o" aria-hidden="true">&nbsp; &nbsp;&nbsp;Gmail: <span class="shop-page_title">example@gmail.com</span></i>
                             </div>
                         </div>
                     </div>

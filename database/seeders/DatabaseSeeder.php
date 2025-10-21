@@ -18,13 +18,13 @@ class DatabaseSeeder extends Seeder
         // $this->call(NguoiDung::class);
         $data = [
             [
-                'username' => '',
-                'password' => Hash::make(123),
-                'nd_hoten' => 'Le Ngoc Duc',
-                'nd_email' => 'lnd@gmail.com',
+                'username' => 'kapapa',
+                'password' => Hash::make(2005),
+                'nd_hoten' => 'Vu Hai Khoa',
+                'nd_email' => 'haikhoa352005@gmail.com',
                 'nd_sdt' => '0123456789',
-                'nd_namsinh' => '24/09/1998',
-                'nd_diachi' => 'TP. HCM',
+                'nd_namsinh' => '02/01/2005',
+                'nd_diachi' => 'TP. HN',
                 'nd_trangthai' => 1
             ]
         ];
