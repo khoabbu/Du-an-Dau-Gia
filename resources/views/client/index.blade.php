@@ -37,7 +37,7 @@
                     <div class="col-md-7 col-sm-7 col-xs-12 col-lg-6">
                         <div class="slide">
                             <div class="slider__inner">
-                                <h2>collection 2022</h2>
+                                <h2>collection 2025</h2>
                                 <h1>NICE HIỆU</h1>
                                 <div class="cr__btn">
                                     <a href="cart.html">AUCTION Now</a>

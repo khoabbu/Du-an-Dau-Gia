@@ -9,14 +9,14 @@
     font-family: 'Poppins', sans-serif;
 */
 
-
 .slider__bg--1 {
-  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/1.jpg") no-repeat scroll 0 0 / cover ;
+    background: rgba(0, 0, 0, 0) url("../../images/slider/bg/1.jpg") no-repeat
+        scroll 0 0 / cover;
 }
 .slider__bg--2 {
-  background: rgba(0, 0, 0, 0) url("../../images/slider/bg/2.jpg") no-repeat scroll 0 0 / cover ;
+    background: rgba(0, 0, 0, 0) url("../../images/slider/bg/2.jpg") no-repeat
+        scroll 0 0 / cover;
 }
-
 
 /*-----------------------------------------
   Background variation Content
@@ -25,16 +25,16 @@
 /*-----------------------------------------
   Slider One
 -------------------------------------------*/
-.slide{
-  height: 100%;
+.slide {
+    height: 100%;
 }
 .slider {
-  height: 100vh;
+    height: 100vh;
 }
 .slider__fixed--height {
-  align-items: center;
-  display: flex;
-  height: 800px;
+    align-items: center;
+    display: flex;
+    height: 800px;
 }
 .slider--one .slide {
     align-items: center;
@@ -77,32 +77,22 @@
     text-align: right;
 }
 
-
-.align-items__center{
+.align-items__center {
     display: flex;
     justify-content: center;
 }
 
 /*Slider Style Two*/
 
-
-
 .slider--two .slide {
-  text-align: center;
+    text-align: center;
 }
-
-
-
-
-
-
-
 
 /*----------------------
   Animation
 -------------------------*/
 
-.slider__activation__wrap{
+.slider__activation__wrap {
     position: relative;
 }
 .slider__activation__wrap .owl-nav div {
@@ -120,7 +110,7 @@
     transition: all 0.5s ease 0s;
     width: 50px;
     -webkit-transform: translateY(-50%);
-            transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 .slider__activation__wrap .owl-nav div.owl-next {
     left: auto;
@@ -130,81 +120,62 @@
     opacity: 1;
 }
 
-.owl-item.active .single__slide.animation__style01 h2{
-  -webkit-animation: 800ms ease-in-out 0s normal none 1 running bounceInDown;
-          animation: 800ms ease-in-out 0s normal none 1 running bounceInDown;
-} 
-.owl-item.active .single__slide.animation__style01 h1{
-  -webkit-animation: 1000ms ease-in-out 0s normal none 1 running zoomInUp;
-          animation: 1000ms ease-in-out 0s normal none 1 running zoomInUp;
-} 
+.owl-item.active .single__slide.animation__style01 h2 {
+    -webkit-animation: 800ms ease-in-out 0s normal none 1 running bounceInDown;
+    animation: 800ms ease-in-out 0s normal none 1 running bounceInDown;
+}
+.owl-item.active .single__slide.animation__style01 h1 {
+    -webkit-animation: 1000ms ease-in-out 0s normal none 1 running zoomInUp;
+    animation: 1000ms ease-in-out 0s normal none 1 running zoomInUp;
+}
 
-.owl-item.active .single__slide.animation__style01 .cr__btn{
-  -webkit-animation: 1600ms ease-in-out 0s normal none 1 running bounceInDown;
-          animation: 1600ms ease-in-out 0s normal none 1 running bounceInDown;
-} 
+.owl-item.active .single__slide.animation__style01 .cr__btn {
+    -webkit-animation: 1600ms ease-in-out 0s normal none 1 running bounceInDown;
+    animation: 1600ms ease-in-out 0s normal none 1 running bounceInDown;
+}
 
+.owl-item.active .single__slide.animation__style01 p {
+    -webkit-animation: 1200ms ease-in-out 0s normal none 1 running zoomInUp;
+    animation: 1200ms ease-in-out 0s normal none 1 running zoomInUp;
+}
 
-.owl-item.active .single__slide.animation__style01 p{
-  -webkit-animation: 1200ms ease-in-out 0s normal none 1 running zoomInUp;
-          animation: 1200ms ease-in-out 0s normal none 1 running zoomInUp;
-} 
-
-.owl-item.active .single__slide.animation__style01 .slide__thumb{
+.owl-item.active .single__slide.animation__style01 .slide__thumb {
     -webkit-animation: 1900ms ease-in-out 0s normal none 1 running bounceInRight;
-            animation: 1900ms ease-in-out 0s normal none 1 running bounceInRight;
-} 
-
-
-
-
-
-
+    animation: 1900ms ease-in-out 0s normal none 1 running bounceInRight;
+}
 
 /*---------------------
   cd-headline
 ------------------------*/
 
 .cd-headline.loading-bar .cd-words-wrapper::after {
-  background: #4c8bf5 none repeat scroll 0 0;
-  bottom: 0;
-  content: "";
-  height: 3px;
-  left: 0;
-  position: absolute;
-  transition: width 0.3s ease -0.1s;
-  width: 0;
-  z-index: 2;
+    background: #4c8bf5 none repeat scroll 0 0;
+    bottom: 0;
+    content: "";
+    height: 3px;
+    left: 0;
+    position: absolute;
+    transition: width 0.3s ease -0.1s;
+    width: 0;
+    z-index: 2;
 }
 .cd-headline.loading-bar span {
-  display: inline-block;
-  padding: 0;
+    display: inline-block;
+    padding: 0;
 }
-.theme-color span.cd-words-wrapper b{
- color: #4c8bf5;
+.theme-color span.cd-words-wrapper b {
+    color: #4c8bf5;
 }
 .cd-headline.loading-bar .cd-words-wrapper::after {
-  background: #4c8bf5 none repeat scroll 0 0;
+    background: #4c8bf5 none repeat scroll 0 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
 
 /* Slider Activation */
 .slider__activation__wrap .col-md-4 {
-  width: 100% !important;
+    width: 100% !important;
 }
-.arrow-down-long{
-  position: relative;
+.arrow-down-long {
+    position: relative;
 }
 .arrow-down-long:before {
     content: "";
@@ -216,37 +187,36 @@
     background-repeat: no-repeat;
 }
 
-.slider__activation__wrap--5 .single-slide{
-  padding-left: 20px;
-  padding-right: 20px;
+.slider__activation__wrap--5 .single-slide {
+    padding-left: 20px;
+    padding-right: 20px;
 }
-.slider__activation__wrap--5 .single-slide:focus{
-  outline: none;
+.slider__activation__wrap--5 .single-slide:focus {
+    outline: none;
 }
 
-/*Duongg*/
 .company {
-  max-width: 1370px;
-  margin-left: auto;
-  margin-right: auto;
-  margin-top: 100px;
-  margin-bottom: 160px;
+    max-width: 1370px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 100px;
+    margin-bottom: 160px;
 }
 .company-heading {
-  text-align: center;
-  font-weight: 500;
-  font-size: 28px;
-  line-height: 160%;
-  color: #696984;
-  letter-spacing: 0.02em;
-  margin-bottom: 32px;
+    text-align: center;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 160%;
+    color: #696984;
+    letter-spacing: 0.02em;
+    margin-bottom: 32px;
 }
 .company-logos {
-  display: flex;
-  align-items: center;
-  justify-content: space-between;
-  gap: 0 45px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 0 45px;
 }
 .company-logo img {
-  margin: 0 auto;
+    margin: 0 auto;
 }

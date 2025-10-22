@@ -189,7 +189,7 @@
                     <div class="row">
                         <div class="col-xs-12">
                             <div class="copyright__inner">
-                                <p>Copyright© <a href="">Auction by Duongg</a> 2018-2022. All right reserved.</p>
+                                <p>Copyright© <a href="">Auction by Khoa</a> 2025. All right reserved.</p>
                                 {{-- <a href="#"><img src="images/others/shape/paypol.png" alt="payment images"></a> --}}
                             </div>
                         </div>

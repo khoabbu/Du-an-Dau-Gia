@@ -74,7 +74,6 @@ class ClientController extends Controller
         $product = DB::table('sanpham')->where('ch_id', $id)->get();
         $category = DB::table('danhmuc')->where('ch_id',$id)->get();
         $productType = DB::table('loaisanpham')->where('ch_id',$id)->get();
-        // Duongg
         //select * from `nguoidung` inner join `nguoidung`.`nd_id` on `cuahang` = `cuahang`.`nd_id` where `cuahang`.`ch_id` = 1
         // $user = DB::table('nguoidung')  
         // ->join('cuahang','cuahang.nd_id','=','nguoidung.nd_id')
@@ -85,7 +84,6 @@ class ClientController extends Controller
         ->join('cuahang','cuahang.nd_id','nguoidung.nd_id')
         ->where('cuahang.ch_id',$id)
         ->get();
-        // Duongg
         //dd($storeInfo);
         return view('client.product.store', compact('product','storeInfo','category','productType','user'));
     }

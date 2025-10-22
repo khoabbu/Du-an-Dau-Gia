@@ -1,7 +1,7 @@
 <!doctype html>
 {{-- <html lang="en">
   <head>
-    <title>Xác Nhận Đăng Ký Tài Khoản Tại Website | Auction by Duongg</title>
+    <title>Xác Nhận Đăng Ký Tài Khoản Tại Website | Auction by Khoa</title>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
@@ -21,7 +21,7 @@
 </html> --}}
 <html><head>
     <meta http-equiv="content-type" content="text/html; charset=UTF-8">
-    <title>Xác Nhận Đăng Ký Tài Khoản Tại Website | Auction by Duongg</title>
+    <title>Xác Nhận Đăng Ký Tài Khoản Tại Website | Auction by Khoa</title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="preconnect" href="https://fonts.gstatic.com">
     <link href="https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300;400;600;700;900&display=swap" rel="stylesheet">
@@ -94,20 +94,20 @@
                 </div>
                 <div style="text-align: center; padding: 1rem 0; border-bottom: 1px solid #DDDEF6; display: flex; justify-content: center;">
                     <div style="color: #5D5E79; font-weight: 600; margin-right: 10px;">
-                        <a href="mailto:maukuliah@sevima.com" style="text-decoration: none;"><i class="uil uil-envelope-alt"></i>&nbsp;duongtv0711@gmail.com</a>
+                        <a href="mailto:maukuliah@sevima.com" style="text-decoration: none;"><i class="uil uil-envelope-alt"></i>&nbsp;haikhoa352005@gmail.com</a>
                     </div>
                     <div style="color: #5D5E79; font-weight: 600; margin-right: 10px;">
-                        <a href="tel:+82143145007" style="text-decoration: none;"><i class="uil uil-whatsapp"></i>&nbsp;0396752113</a>
+                        <a href="tel:+82143145007" style="text-decoration: none;"><i class="uil uil-whatsapp"></i>&nbsp;0123456789</a>
                     </div>
                 </div>
                 <div style="text-align: center; padding: 1rem 0; border-bottom: 1px solid #DDDEF6; display: flex; justify-content: center;">
                     <div style="color: #5D5E79; font-weight: 600; margin-right: 10px;">
-                        <a href="https://maukuliah.id/" href="_blank" style="text-decoration: none;"><i class="uil uil-sliders-v-alt"></i>&nbsp;TRANVANDUONG</a>
+                        <a href="https://maukuliah.id/" href="_blank" style="text-decoration: none;"><i class="uil uil-sliders-v-alt"></i>&nbsp;VU HAI KHOA</a>
                     </div>
                 </div>
                 <div style="text-align: center; padding: 1rem 0 0 0;">
                     <div style="color: rgba(38, 49, 69, 0.4); font-weight: 600; margin-right: 10px;">
-                        AUCTION © 2022. <br />All right reserved.
+                        AUCTION © 2025. <br />All right reserved.
                     </div>
                 </div>
 	        </div>
